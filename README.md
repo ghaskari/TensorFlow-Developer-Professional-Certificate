@@ -45,3 +45,10 @@ Contributions to this repository are welcome If you have suggestions for improvi
 
 - DeepLearning.AI for providing the course content and resources.
 - TensorFlow community for their support and contributions to the TensorFlow ecosystem.
+
+## Certificate 
+Certificate Link:
+
+[View Certificate](https://coursera.org/share/8d87c7d55a77f1a606fd9fcc165b8f49)
+
+![img.png](img.png)
