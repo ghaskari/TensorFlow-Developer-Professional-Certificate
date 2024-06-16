@@ -22,6 +22,13 @@ Welcome to the TensorFlow Developer Professional Certificate course This compreh
 - Focus on sequences, time series, and prediction in NLP.
 - Apply recurrent neural networks (RNNs), gated recurrent units (GRUs), and long short-term memory (LSTM) networks for text analysis and generation.
 
+### 4. Sequences, Time Series, and Prediction
+
+- solve time series and forecasting problems in TensorFlow.
+- Prepare data for time series learning using best practices.
+- Explore how RNNs and ConvNets can be used for predictions.
+- Build a sunspot prediction model using real-world data.
+
 ## Getting Started
 
 To get started, ensure you have a basic understanding of Python programming and familiarity with mathematics concepts such as linear algebra, calculus, and statistics. These foundational skills are crucial for grasping the concepts taught in this course.
@@ -49,6 +56,6 @@ Contributions to this repository are welcome If you have suggestions for improvi
 ## Certificate 
 Certificate Link:
 
-[Natural Language Processing in TensorFlow Certificate ](https://coursera.org/share/8d87c7d55a77f1a606fd9fcc165b8f49)
+[Natural Language Processing in TensorFlow Certificate ]([[https://coursera.org/share/8d87c7d55a77f1a606fd9fcc165b8f49](https://coursera.org/share/83eeb251eecba8b831de1900deee7ea9)](https://coursera.org/share/83eeb251eecba8b831de1900deee7ea9))
 
-![img.png](img.png)
+![image](https://github.com/ghaskari/TensorFlow-Developer-Professional-Certificate/assets/103450551/4dd8aaec-8770-4611-ac46-3cea219e1953)
