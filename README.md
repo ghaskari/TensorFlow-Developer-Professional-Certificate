@@ -56,6 +56,6 @@ Contributions to this repository are welcome If you have suggestions for improvi
 ## Certificate 
 Certificate Link:
 
-[Natural Language Processing in TensorFlow Certificate ]([[https://coursera.org/share/8d87c7d55a77f1a606fd9fcc165b8f49](https://coursera.org/share/83eeb251eecba8b831de1900deee7ea9)](https://coursera.org/share/83eeb251eecba8b831de1900deee7ea9))
+[DeepLearning.AI TensorFlow Developer Professional Certificate]([[https://coursera.org/share/8d87c7d55a77f1a606fd9fcc165b8f49](https://coursera.org/share/83eeb251eecba8b831de1900deee7ea9)](https://coursera.org/share/83eeb251eecba8b831de1900deee7ea9))
 
 ![image](https://github.com/ghaskari/TensorFlow-Developer-Professional-Certificate/assets/103450551/4dd8aaec-8770-4611-ac46-3cea219e1953)
